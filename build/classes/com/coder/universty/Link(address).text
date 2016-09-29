@@ -1,0 +1,3 @@
+http://localhost:8080/University_RESTful_WS/rest/university/24/45
+http://localhost:8080/University_RESTful_WS/rest/university/fatalerror
+http://localhost:8080/University_RESTful_WS/rest/university/?studentRoll1=34&studentRoll2=45
